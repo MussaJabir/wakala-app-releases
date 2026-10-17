@@ -1,0 +1,14 @@
+{
+  "latest": "9.9.9",
+  "url": "https://github.com/MussaJabir/wakala-app-releases/releases/latest",
+  "important": false,
+  "size_mb": 60,
+  "notes": {
+    "en": ["This is a test notice", "It is only seen by test builds", "Small fixes and improvements"],
+    "sw": ["Hii ni taarifa ya majaribio", "Inaonekana kwenye matoleo ya majaribio tu", "Marekebisho madogo na maboresho"]
+  },
+  "important_message": {
+    "en": "This test version fixes a problem with the dashboard.",
+    "sw": "Toleo hili la majaribio linarekebisha tatizo la dashibodi."
+  }
+}
