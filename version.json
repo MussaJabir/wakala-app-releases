@@ -1,0 +1,22 @@
+{
+  "latest": "1.0.0",
+  "url": "https://github.com/MussaJabir/wakala-app-releases/releases/latest",
+  "important": false,
+  "size_mb": 68,
+  "notes": {
+    "en": [
+      "First version of Smart Wakala",
+      "Dashboard, transactions, shifts, float and commissions",
+      "Works offline: transactions are sent when you are back online"
+    ],
+    "sw": [
+      "Toleo la kwanza la Smart Wakala",
+      "Dashibodi, miamala, zamu, floti na kamisheni",
+      "Inafanya kazi bila mtandao: miamala hutumwa ukirudi mtandaoni"
+    ]
+  },
+  "important_message": {
+    "en": "",
+    "sw": ""
+  }
+}
